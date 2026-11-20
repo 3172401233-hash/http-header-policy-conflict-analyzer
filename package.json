@@ -1,0 +1,12 @@
+{
+  "name": "sre-capacity-reservation-auction",
+  "version": "1.0.0",
+  "description": "容量预留分配器：在租户保障、优先级与跨故障域迁移余量之间分配预留容量",
+  "type": "module",
+  "engines": {
+    "node": ">=24.16.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
